@@ -132,6 +132,7 @@
       <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
       <path value="$PROJECT_DIR$/vendor/react/promise" />
       <path value="$PROJECT_DIR$/vendor/spatie/laravel-permission" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1l8sW8GKChqBmgp9HUBKNQTtFLV" />
@@ -161,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606990081813</updated>
-      <workItem from="1606990082983" duration="1384000" />
+      <workItem from="1606990082983" duration="5628000" />
     </task>
     <servers />
   </component>
@@ -177,9 +178,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606990190206" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606991437788">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607003253427">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606991437788" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607003253427" />
   </component>
 </project>
